@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Cube()
+comment1.params=alpha
+comment1.target=void\ rotateCube(double)
+numComments=2

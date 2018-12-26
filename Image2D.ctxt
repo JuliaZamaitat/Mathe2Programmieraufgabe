@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment1.params=image
+comment1.target=Image2D(java.awt.image.BufferedImage)
+comment2.params=width\ height
+comment2.target=Image2D(int,\ int)
+comment3.params=a
+comment3.target=java.awt.Point\ transformToImageCoordinates(double[])
+comment4.params=v
+comment4.target=double[]\ projectParallel(double[])
+comment5.params=v\ a\ d
+comment5.target=double[]\ projectCentral(double[],\ double,\ double)
+comment6.params=c
+comment6.target=void\ drawCube(Cube)
+numComments=7
